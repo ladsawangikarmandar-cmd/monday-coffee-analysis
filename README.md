@@ -1,5 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
+![Cover Page](images/01_cover.png)
 
 ## Objective
 Monday Coffee has sold its products online since January 2023 and received a strongly positive response across several Indian cities. The business now wants to open three physical coffee shops.
@@ -43,19 +44,20 @@ After analyzing the data, the recommended top three cities for new store opening
 
 City 1: Pune
 
-Highest total revenue of all cities.
-Highest positive month-over-month growth — sales beat the previous month in the most months.
-Average rent per customer under 300, with the highest average sale per customer.
+1. Highest total revenue of all cities.
+2. Highest positive month-over-month growth — sales beat the previous month in the most months.
+3. Average rent per customer under 300, with the highest average sale per customer.
 
- City 2: Jaipur :-
- 
-Very low average rent per customer.
-Highest number of current customers.
-Strong revenue and average sale per customer at lower rent than other cities.
+City 2: Jaipur
+1. Very low average rent per customer.
+2. Highest number of current customers.
+3. Strong revenue and average sale per customer at lower rent than other cities.
 
-City 3: Delhi :-
 
-Largest estimated coffee-consumer population.
-A large share of current customers come from Delhi.
-Average rent per customer still below 500.
+City 3: Delhi
+1. Largest estimated coffee-consumer population.
+2. A large share of current customers come from Delhi.
+3. Average rent per customer still below 500.
+
+
 ---
