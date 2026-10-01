@@ -1,6 +1,5 @@
 # Monday Coffee Expansion SQL Project
 
-![cover Pagae](images/01_cover.png)
 
 ## Objective
 Monday Coffee has sold its products online since January 2023 and received a strongly positive response across several Indian cities. The business now wants to open three physical coffee shops.
