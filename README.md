@@ -1,9 +1,11 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+
 
 ## Objective
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+Monday Coffee has sold its products online since January 2023 and received a strongly positive response across several Indian cities. The business now wants to open three physical coffee shops.
+
+In this project, I act as the data analyst. I use SQL to analyse sales, customer, product and city data, and to recommend the top 3 cities for the new outlets.
 
 ## Key Questions
 1. **Coffee Consumers Count**  
@@ -40,19 +42,21 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
-**City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+City 1: Pune
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+Highest total revenue of all cities.
+Highest positive month-over-month growth — sales beat the previous month in the most months.
+Average rent per customer under 300, with the highest average sale per customer.
 
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+ City 2: Jaipur :-
+ 
+Very low average rent per customer.
+Highest number of current customers.
+Strong revenue and average sale per customer at lower rent than other cities.
 
+City 3: Delhi :-
+
+Largest estimated coffee-consumer population.
+A large share of current customers come from Delhi.
+Average rent per customer still below 500.
 ---
